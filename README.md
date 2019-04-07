@@ -20,3 +20,7 @@
 
 
 
+##### JetBrains 系列软件汉化包参考：
+
+https://blog.csdn.net/pingfangx/article/details/79652189
+
