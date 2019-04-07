@@ -12,7 +12,9 @@
 
 ​	将hub中的Sublime Installed Packages包解压放进**/Sublime Text 3\Installed Packages/路径下重启软件即可。
 
+#### Goland 汉化：
 
+​	将resources_zh_CN_GoLand_2018.3_r1 放进安装软件安装目录的lib路径下重启软件即可。
 
 
 
