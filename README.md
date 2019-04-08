@@ -2,7 +2,7 @@
 
 #### Pycharm 汉化方法：
 
-​	将汉化包[resources_cn.jar]直接放在Pycharm安装包目录/lib/ 路径下重启Pycharm即可。
+​	将[resources_cn.jar]**直接**放在Pycharm安装包目录/lib/ 路径下重启Pycharm即可。
 
 #### VScode 汉化方法：
 
@@ -10,11 +10,11 @@
 
 #### Sublime Text3 汉化方法：
 
-​	将hub中的Sublime Installed Packages包解压放进**/Sublime Text 3\Installed Packages/路径下重启软件即可。
+​	将hub中的Sublime Installed Packages包**解压**放进**\Sublime Text 3\Installed Packages/路径下重启软件即可。
 
 #### Goland 汉化：
 
-​	将resources_zh_CN_GoLand_2018.3_r1 放进安装软件安装目录的lib路径下重启软件即可。
+​	将[resources_zh_CN_GoLand_2018.3_r1.jar] **直接**放进安装软件安装目录的lib路径下重启软件即可。
 
 
 
